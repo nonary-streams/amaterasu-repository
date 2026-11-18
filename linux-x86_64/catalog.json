@@ -1,0 +1,1 @@
+{"schema":1,"repository":"amaterasu","sequence":1794962073,"expires_unix":1810513912,"target":"linux-x86_64","candidates":[{"slot":"amaterasu.runtime","implementation":"amaterasu-core","version":"0.1.0","kind":"native_set","manifest_sha256":"20e3991f6e7d6b6f31397ff2ab406c2e4e9f508c5fb84f00366b2c67c6b9a924"}]}
